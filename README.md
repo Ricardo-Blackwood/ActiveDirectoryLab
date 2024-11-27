@@ -7,26 +7,22 @@ department to streamline user and resource management within the Active Director
 requirements, account lockout policies, and login restrictions, enhancing network security and compliance.
 <br />
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2019 (21H2)
+- <b>Windows Server 2019 (Datacenter Evaluation)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Introduction: <br/>
+<img src="https://github.com/Ricardo-Blackwood/ActiveDirectoryLab/blob/f424362cb2b66b4953201308694dca056d15ff70/homelab%20part1.png"/>
 <br />
 <br />
-Select the disk:  <br/>
+Configuring windows updates:
+ To Access Windows Updates, you need go to Windows updates in the settings menu.<br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+  
 <br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
